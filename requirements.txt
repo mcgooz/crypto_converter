@@ -1,0 +1,4 @@
+requests
+re
+tkinter
+unittest.mock
