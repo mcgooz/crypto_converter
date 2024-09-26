@@ -1,5 +1,5 @@
 # Basic Crypto Converter
-## Video Demo: https://youtu.be/693PrbpnAHU
+## Video Demo: unlisted
 ## Description:
 The program is a basic crypto to euro converter with a colourful yet simple graphical user interface. After testing a few concepts, I decided to expand on an idea that I had while working on one of the problem sets for this course, namely, the Bitcoin Price Index. My program retrieves up-to-date prices via the Binance API. Initially, I wanted to be able to convert from a number of fiat currencies to various different cryptos but, due to time and technical restraints, I decided to focus on a single currency, the Euro, and a handful of cryptos (BTC, BCH, ETH, LTC). (I'm sure that as time goes by I will continue to tinker with and update the program!)
 
